@@ -1,4 +1,4 @@
-## The program consist a pair of functions that cache the Inverse of matrix
+## The program consist a pair of functions that cache the Inverse of invertible square matrix
 ## This tries to minimise the costly matrix inversion
 ## The pair of fuction create a special object(list) that 
 ## stores a matrix and cache its inverse
